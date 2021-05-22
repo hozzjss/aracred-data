@@ -16,8 +16,14 @@
       }
     },
     "identities": [
+      {
+        "username": "s_ben",
+        "aliases": [
+          "discourse/s_ben",
+          "discord/318552163649454081"
+        ]
+      }
     ],
-    "repoIds": [
-    ]
+    "repoIds": []
   }
 ]
