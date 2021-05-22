@@ -1,0 +1,23 @@
+[
+  {
+    "type": "sourcecred/project",
+    "version": "0.4.0"
+  },
+  {
+    "id": "@hz",
+    "discord": {
+      "guildId": "834884838116294666",
+      "reactionWeights": {
+        "👍": 1,
+        "🔥": 1,
+        "❤️": 1,
+        "💯": 1,
+        "🙏": 1
+      }
+    },
+    "identities": [
+    ],
+    "repoIds": [
+    ]
+  }
+]
